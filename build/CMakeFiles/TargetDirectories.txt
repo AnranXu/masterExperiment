@@ -1,3 +1,0 @@
-/home/anran/MasterExperiment/build/CMakeFiles/edit_cache.dir
-/home/anran/MasterExperiment/build/CMakeFiles/rebuild_cache.dir
-/home/anran/MasterExperiment/build/CMakeFiles/MasterExperiment.dir
